@@ -1,9 +1,5 @@
-# SQL-Exploratory-Data-Analysis-EDA-Project
+## sql-data-analytics-project Exploratory-Data-Analysis-EDA
 ---
-
-## sql-data-analytics-project
-A comprehensive collection of SQL scripts for data exploration, analytics, and reporting. These scripts cover various analyses such as database exploration, measures and metrics, time-based trends, cumulative analytics, segmentation, and more. This repository contains SQL queries designed to help data analysts and BI professionals quickly explore, segment, and analyze data within a relational database. Each script focuses on a specific analytical theme and demonstrates best practices for SQL queries.
-
 This project showcases a comprehensive collection of SQL scripts designed for end-to-end data exploration, business reporting, and performance analysis within a relational database. The objective was to equip data analysts and BI professionals with reusable, well-structured SQL queries that focus on real-world analytical scenarios.
 
 ### Key Highlights:
