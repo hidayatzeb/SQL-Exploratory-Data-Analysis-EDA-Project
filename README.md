@@ -41,4 +41,4 @@ Data segmentation and cohort analysis
 Subqueries and CTEs for layered reporting
 
 This project not only highlights best practices in writing optimized and readable SQL code but also reflects real business use cases for dashboards, KPIs, and strategic insights.
-[Go to the First Part 1 of this Project] (https://github.com/hidayatzeb/sql-data-warehouse-project)
+Go to the First Part 1 of this Project https://github.com/hidayatzeb/sql-data-warehouse-project
