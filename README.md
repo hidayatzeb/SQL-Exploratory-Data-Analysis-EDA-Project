@@ -21,6 +21,8 @@ Segmented customers by activity and order behavior (VIP, Regular, New).
 
 ## Comprehensive Reports:
 
+
+
 **Customer Report:** Included metrics like total orders, lifetime spend, average order value, recency, and customer categorization.
 
 **Product Report:** Included KPIs such as total revenue, quantity sold, customer reach, product segmentation, and monthly revenue trends.
@@ -39,3 +41,4 @@ Data segmentation and cohort analysis
 Subqueries and CTEs for layered reporting
 
 This project not only highlights best practices in writing optimized and readable SQL code but also reflects real business use cases for dashboards, KPIs, and strategic insights.
+[Go to the First Part 1 of this Project] (https://github.com/hidayatzeb/sql-data-warehouse-project)
